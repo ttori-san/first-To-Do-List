@@ -1,6 +1,6 @@
 'use strict';
 //
-const addTaskTriger = document.getElementsByClassName('js-addTask__triger')[0];
+const addTaskTriger = document.getElementsByClassName('js-addTask__trigger')[0];
 const addTaskTarget = document.getElementsByClassName('js-addTask__target')[0];
 const addTaskValue = document.getElementsByClassName('js-addTask__value')[0];
 
